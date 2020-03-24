@@ -1,6 +1,11 @@
 {
   "name": "sm-api-bp",
   "version": "0.0.1",
+  "author": {
+    "name": "Breno Freire",
+    "email": "brenofreire.dev@gmail.com",
+    "url": "https://github.com/brenofreire"
+  },
   "private": true,
   "scripts": {
     "build": "node ace build",
